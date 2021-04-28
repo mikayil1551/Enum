@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\YenidenC#\OOP\4.27.2021\EnumCalisma\EnumCalisma\bin\Debug\EnumCalisma.exe.config
+C:\Users\User\Desktop\YenidenC#\OOP\4.27.2021\EnumCalisma\EnumCalisma\bin\Debug\EnumCalisma.exe
+C:\Users\User\Desktop\YenidenC#\OOP\4.27.2021\EnumCalisma\EnumCalisma\bin\Debug\EnumCalisma.pdb
+C:\Users\User\Desktop\YenidenC#\OOP\4.27.2021\EnumCalisma\EnumCalisma\obj\Debug\EnumCalisma.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\YenidenC#\OOP\4.27.2021\EnumCalisma\EnumCalisma\obj\Debug\EnumCalisma.Form1.resources
+C:\Users\User\Desktop\YenidenC#\OOP\4.27.2021\EnumCalisma\EnumCalisma\obj\Debug\EnumCalisma.Properties.Resources.resources
+C:\Users\User\Desktop\YenidenC#\OOP\4.27.2021\EnumCalisma\EnumCalisma\obj\Debug\EnumCalisma.csproj.GenerateResource.cache
+C:\Users\User\Desktop\YenidenC#\OOP\4.27.2021\EnumCalisma\EnumCalisma\obj\Debug\EnumCalisma.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\YenidenC#\OOP\4.27.2021\EnumCalisma\EnumCalisma\obj\Debug\EnumCalisma.exe
+C:\Users\User\Desktop\YenidenC#\OOP\4.27.2021\EnumCalisma\EnumCalisma\obj\Debug\EnumCalisma.pdb
